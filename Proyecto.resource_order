@@ -1,6 +1,19 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
-    {"name":"Sprite1","order":1,"path":"sprites/Sprite1/Sprite1.yy",},
+    {"name":"obj_enemy","order":9,"path":"objects/obj_enemy/obj_enemy.yy",},
+    {"name":"obj_exit","order":10,"path":"objects/obj_exit/obj_exit.yy",},
+    {"name":"obj_gameover","order":11,"path":"objects/obj_gameover/obj_gameover.yy",},
+    {"name":"obj_player","order":6,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_spikes","order":8,"path":"objects/obj_spikes/obj_spikes.yy",},
+    {"name":"obj_wall","order":7,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"room_gameover","order":12,"path":"rooms/room_gameover/room_gameover.yy",},
+    {"name":"spr_enemy","order":4,"path":"sprites/spr_enemy/spr_enemy.yy",},
+    {"name":"spr_exit","order":5,"path":"sprites/spr_exit/spr_exit.yy",},
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_spikes","order":3,"path":"sprites/spr_spikes/spr_spikes.yy",},
+    {"name":"spr_wall","order":2,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"Sprite6","order":13,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"Sprite7","order":14,"path":"sprites/Sprite7/Sprite7.yy",},
   ],
 }
